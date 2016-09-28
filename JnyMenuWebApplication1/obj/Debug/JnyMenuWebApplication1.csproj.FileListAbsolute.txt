@@ -1,0 +1,6 @@
+c:\users\pebriant\documents\visual studio 2010\Projects\JnyMenuWebApplication1\JnyMenuWebApplication1\bin\JnyMenuWebApplication1.dll
+c:\users\pebriant\documents\visual studio 2010\Projects\JnyMenuWebApplication1\JnyMenuWebApplication1\bin\JnyMenuWebApplication1.pdb
+c:\users\pebriant\documents\visual studio 2010\Projects\JnyMenuWebApplication1\JnyMenuWebApplication1\obj\Debug\JnyMenuWebApplication1.dll
+c:\users\pebriant\documents\visual studio 2010\Projects\JnyMenuWebApplication1\JnyMenuWebApplication1\obj\Debug\JnyMenuWebApplication1.pdb
+c:\users\pebriant\documents\visual studio 2010\Projects\JnyMenuWebApplication1\JnyMenuWebApplication1\obj\Debug\JnyMenuWebApplication1.Properties.Resources.resources
+c:\users\pebriant\documents\visual studio 2010\Projects\JnyMenuWebApplication1\JnyMenuWebApplication1\obj\Debug\JnyMenuWebApplication1.csproj.GenerateResource.Cache

@@ -1,0 +1,32 @@
+body
+{
+    background-color: #615d5d;
+    padding-top: 70px;
+}
+
+.productbox
+{
+    background-color: #ffffff;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.productbox:hover 
+{
+    background-color: #3ff4ff;
+}
+
+.producttitle
+{
+    font-weight: bold;
+}
+
+.productprice
+{
+    border-top: 1px solid #dadada;
+}
+
+.pricetext
+{
+    font-weight: bold;
+    font-size: 1.4em;
+}
